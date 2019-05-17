@@ -13,6 +13,7 @@ class User : Person() {
 }
 
 fun main(args: Array<String>) {
+    var a: Int, b: Int
     val list: MutableList<Person> = mutableListOf()
     list.add(User())
     println(list.size)

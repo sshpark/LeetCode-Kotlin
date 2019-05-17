@@ -4,7 +4,10 @@
 | 1 | [two-sum](https://leetcode.com/problems/two-sum/description/) | [Kotlin](./easy/1.two-sum.kt) | Easy |
 | 2 | [add-two-numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Kotlin](./easy/2.add-two-numbers.kt) | Easy |
 | 3 | [longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Kotlin](./medium/3.longest-substring-without-repeating-characters.kt) | Medium |
+| 5 | [longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Kotlin](./medium/5.longest-palindromic-substring.kt) | Medium |
+| 6 | [zig-zag-conversion](https://leetcode.com/problems/zig-zag-conversion/description/) | [Kotlin](./medium/6.zig-zag-conversion.kt) | Medium |
 | 7 | [reverse-integer](https://leetcode.com/problems/reverse-integer/description/) | [Kotlin](./easy/7.reverse-integer.kt) | Easy |
+| 9 | [palindrome-number](https://leetcode.com/problems/palindrome-number/description/) | [Kotlin](./easy/9.palindrome-number.kt) | Easy |
 | 15 | [3-sum](https://leetcode.com/problems/3-sum/description/) | [Kotlin](./medium/15.3-sum.kt) | Medium |
 | 27 | [remove-element](https://leetcode.com/problems/remove-element/description/) | [Kotlin](./easy/27.remove-element.kt) | Easy |
 | 38 | [count-and-say](https://leetcode.com/problems/count-and-say/description/) | [Kotlin](./easy/38.count-and-say.kt) | Easy |
