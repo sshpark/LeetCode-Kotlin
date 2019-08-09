@@ -21,7 +21,12 @@
 | 32 | [longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | [Kotlin](./hard/32.longest-valid-parentheses.kt) | Hard |
 | 38 | [count-and-say](https://leetcode.com/problems/count-and-say/description/) | [Kotlin](./easy/38.count-and-say.kt) | Easy |
 | 44 | [wildcard-matching](https://leetcode.com/problems/wildcard-matching/description/) | [Kotlin](./hard/44.wildcard-matching.kt) | Hard |
+| 53 | [maximum-subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Kotlin](./easy/53.maximum-subarray.kt) | Easy |
 | 55 | [jump-game](https://leetcode.com/problems/jump-game/description/) | [Kotlin](./medium/55.jump-game.kt) | Medium |
+| 62 | [unique-paths](https://leetcode.com/problems/unique-paths/description/) | [Kotlin](./medium/62.unique-paths.kt) | Medium |
+| 63 | [unique-paths-ii](https://leetcode.com/problems/unique-paths-ii/description/) | [Kotlin](./medium/63.unique-paths-ii.kt) | Medium |
+| 64 | [minimum-path-sum](https://leetcode.com/problems/minimum-path-sum/description/) | [Kotlin](./medium/64.minimum-path-sum.kt) | Medium |
+| 70 | [climbing-stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Kotlin](./easy/70.climbing-stairs.kt) | Easy |
 | 94 | [binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [Kotlin](./medium/94.binary-tree-inorder-traversal.kt) | Medium |
 | 96 | [unique-binary-search-trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [Kotlin](./medium/96.unique-binary-search-trees.kt) | Medium |
 | 104 | [maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Kotlin](./easy/104.maximum-depth-of-binary-tree.kt) | Easy |
