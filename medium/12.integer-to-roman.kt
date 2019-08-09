@@ -80,8 +80,20 @@
  * 
  */
 class Solution {
+    private val m_k = listOf(1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1)
+    private val m_v = listOf("M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I")
+
     fun intToRoman(num: Int): String {
-        
+        var str = ""
+        var n = num
+
+        for (i in m_k.indices) {
+            while (n >= m_k[i]) {
+                n -= m_k[i]
+                str += m_v[i]
+            }
+        }
+        return str
     }
 }
 
