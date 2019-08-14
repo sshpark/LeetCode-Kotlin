@@ -17,6 +17,7 @@
 | 15 | [3-sum](https://leetcode.com/problems/3-sum/description/) | [Kotlin](./medium/15.3-sum.kt) | Medium |
 | 16 | [3-sum-closest](https://leetcode.com/problems/3-sum-closest/description/) | [Kotlin](./medium/16.3-sum-closest.kt) | Medium |
 | 17 | [letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [Kotlin](./medium/17.letter-combinations-of-a-phone-number.kt) | Medium |
+| 18 | [4-sum](https://leetcode.com/problems/4-sum/description/) | [Kotlin](./medium/18.4-sum.kt) | Medium |
 | 27 | [remove-element](https://leetcode.com/problems/remove-element/description/) | [Kotlin](./easy/27.remove-element.kt) | Easy |
 | 32 | [longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | [Kotlin](./hard/32.longest-valid-parentheses.kt) | Hard |
 | 38 | [count-and-say](https://leetcode.com/problems/count-and-say/description/) | [Kotlin](./easy/38.count-and-say.kt) | Easy |
@@ -29,6 +30,7 @@
 | 70 | [climbing-stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Kotlin](./easy/70.climbing-stairs.kt) | Easy |
 | 72 | [edit-distance](https://leetcode.com/problems/edit-distance/description/) | [Kotlin](./hard/72.edit-distance.kt) | Hard |
 | 85 | [maximal-rectangle](https://leetcode.com/problems/maximal-rectangle/description/) | [Kotlin](./hard/85.maximal-rectangle.kt) | Hard |
+| 91 | [decode-ways](https://leetcode.com/problems/decode-ways/description/) | [Kotlin](./medium/91.decode-ways.kt) | Medium |
 | 94 | [binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [Kotlin](./medium/94.binary-tree-inorder-traversal.kt) | Medium |
 | 96 | [unique-binary-search-trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [Kotlin](./medium/96.unique-binary-search-trees.kt) | Medium |
 | 104 | [maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Kotlin](./easy/104.maximum-depth-of-binary-tree.kt) | Easy |
