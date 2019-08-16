@@ -19,11 +19,14 @@
 | 17 | [letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [Kotlin](./medium/17.letter-combinations-of-a-phone-number.kt) | Medium |
 | 18 | [4-sum](https://leetcode.com/problems/4-sum/description/) | [Kotlin](./medium/18.4-sum.kt) | Medium |
 | 27 | [remove-element](https://leetcode.com/problems/remove-element/description/) | [Kotlin](./easy/27.remove-element.kt) | Easy |
+| 29 | [divide-two-integers](https://leetcode.com/problems/divide-two-integers/description/) | [Kotlin](./medium/29.divide-two-integers.kt) | Medium |
 | 32 | [longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | [Kotlin](./hard/32.longest-valid-parentheses.kt) | Hard |
 | 38 | [count-and-say](https://leetcode.com/problems/count-and-say/description/) | [Kotlin](./easy/38.count-and-say.kt) | Easy |
 | 44 | [wildcard-matching](https://leetcode.com/problems/wildcard-matching/description/) | [Kotlin](./hard/44.wildcard-matching.kt) | Hard |
+| 50 | [pow-x-n](https://leetcode.com/problems/pow-x-n/description/) | [Kotlin](./medium/50.pow-x-n.kt) | Medium |
 | 53 | [maximum-subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Kotlin](./easy/53.maximum-subarray.kt) | Easy |
 | 55 | [jump-game](https://leetcode.com/problems/jump-game/description/) | [Kotlin](./medium/55.jump-game.kt) | Medium |
+| 60 | [permutation-sequence](https://leetcode.com/problems/permutation-sequence/description/) | [Kotlin](./medium/60.permutation-sequence.kt) | Medium |
 | 62 | [unique-paths](https://leetcode.com/problems/unique-paths/description/) | [Kotlin](./medium/62.unique-paths.kt) | Medium |
 | 63 | [unique-paths-ii](https://leetcode.com/problems/unique-paths-ii/description/) | [Kotlin](./medium/63.unique-paths-ii.kt) | Medium |
 | 64 | [minimum-path-sum](https://leetcode.com/problems/minimum-path-sum/description/) | [Kotlin](./medium/64.minimum-path-sum.kt) | Medium |
