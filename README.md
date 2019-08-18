@@ -30,6 +30,7 @@
 | 62 | [unique-paths](https://leetcode.com/problems/unique-paths/description/) | [Kotlin](./medium/62.unique-paths.kt) | Medium |
 | 63 | [unique-paths-ii](https://leetcode.com/problems/unique-paths-ii/description/) | [Kotlin](./medium/63.unique-paths-ii.kt) | Medium |
 | 64 | [minimum-path-sum](https://leetcode.com/problems/minimum-path-sum/description/) | [Kotlin](./medium/64.minimum-path-sum.kt) | Medium |
+| 69 | [sqrt-x](https://leetcode.com/problems/sqrt-x/description/) | [Kotlin](./easy/69.sqrt-x.kt) | Easy |
 | 70 | [climbing-stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Kotlin](./easy/70.climbing-stairs.kt) | Easy |
 | 72 | [edit-distance](https://leetcode.com/problems/edit-distance/description/) | [Kotlin](./hard/72.edit-distance.kt) | Hard |
 | 85 | [maximal-rectangle](https://leetcode.com/problems/maximal-rectangle/description/) | [Kotlin](./hard/85.maximal-rectangle.kt) | Hard |
@@ -39,3 +40,4 @@
 | 104 | [maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Kotlin](./easy/104.maximum-depth-of-binary-tree.kt) | Easy |
 | 268 | [missing-number](https://leetcode.com/problems/missing-number/description/) | [Kotlin](./easy/268.missing-number.kt) | Easy |
 | 279 | [perfect-squares](https://leetcode.com/problems/perfect-squares/description/) | [Kotlin](./medium/279.perfect-squares.kt) | Medium |
+| 329 | [longest-increasing-path-in-a-matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/) | [Kotlin](./hard/329.longest-increasing-path-in-a-matrix.kt) | Hard |
