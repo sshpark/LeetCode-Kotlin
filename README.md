@@ -36,6 +36,7 @@
 | 85 | [maximal-rectangle](https://leetcode.com/problems/maximal-rectangle/description/) | [Kotlin](./hard/85.maximal-rectangle.kt) | Hard |
 | 91 | [decode-ways](https://leetcode.com/problems/decode-ways/description/) | [Kotlin](./medium/91.decode-ways.kt) | Medium |
 | 94 | [binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [Kotlin](./medium/94.binary-tree-inorder-traversal.kt) | Medium |
+| 95 | [unique-binary-search-trees-ii](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) | [Kotlin](./medium/95.unique-binary-search-trees-ii.kt) | Medium |
 | 96 | [unique-binary-search-trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [Kotlin](./medium/96.unique-binary-search-trees.kt) | Medium |
 | 104 | [maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Kotlin](./easy/104.maximum-depth-of-binary-tree.kt) | Easy |
 | 204 | [count-primes](https://leetcode.com/problems/count-primes/description/) | [Kotlin](./easy/204.count-primes.kt) | Easy |
