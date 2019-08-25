@@ -39,6 +39,7 @@
 | 95 | [unique-binary-search-trees-ii](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) | [Kotlin](./medium/95.unique-binary-search-trees-ii.kt) | Medium |
 | 96 | [unique-binary-search-trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [Kotlin](./medium/96.unique-binary-search-trees.kt) | Medium |
 | 104 | [maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Kotlin](./easy/104.maximum-depth-of-binary-tree.kt) | Easy |
+| 120 | [triangle](https://leetcode.com/problems/triangle/description/) | [Kotlin](./medium/120.triangle.kt) | Medium |
 | 204 | [count-primes](https://leetcode.com/problems/count-primes/description/) | [Kotlin](./easy/204.count-primes.kt) | Easy |
 | 268 | [missing-number](https://leetcode.com/problems/missing-number/description/) | [Kotlin](./easy/268.missing-number.kt) | Easy |
 | 279 | [perfect-squares](https://leetcode.com/problems/perfect-squares/description/) | [Kotlin](./medium/279.perfect-squares.kt) | Medium |
