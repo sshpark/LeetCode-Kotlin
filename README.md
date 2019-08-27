@@ -42,8 +42,10 @@
 | 120 | [triangle](https://leetcode.com/problems/triangle/description/) | [Kotlin](./medium/120.triangle.kt) | Medium |
 | 139 | [word-break](https://leetcode.com/problems/word-break/description/) | [Kotlin](./medium/139.word-break.kt) | Medium |
 | 204 | [count-primes](https://leetcode.com/problems/count-primes/description/) | [Kotlin](./easy/204.count-primes.kt) | Easy |
+| 207 | [course-schedule](https://leetcode.com/problems/course-schedule/description/) | [Kotlin](./medium/207.course-schedule.kt) | Medium |
 | 268 | [missing-number](https://leetcode.com/problems/missing-number/description/) | [Kotlin](./easy/268.missing-number.kt) | Easy |
 | 279 | [perfect-squares](https://leetcode.com/problems/perfect-squares/description/) | [Kotlin](./medium/279.perfect-squares.kt) | Medium |
 | 300 | [longest-increasing-subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [Kotlin](./medium/300.longest-increasing-subsequence.kt) | Medium |
+| 303 | [range-sum-query-immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) | [Kotlin](./easy/303.range-sum-query-immutable.kt) | Easy |
 | 304 | [range-sum-query-2-d-immutable](https://leetcode.com/problems/range-sum-query-2-d-immutable/description/) | [Kotlin](./medium/304.range-sum-query-2-d-immutable.kt) | Medium |
 | 329 | [longest-increasing-path-in-a-matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/) | [Kotlin](./hard/329.longest-increasing-path-in-a-matrix.kt) | Hard |
