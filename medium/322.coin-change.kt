@@ -40,12 +40,29 @@
 import java.util.LinkedList
 
 class Solution {
+    fun coinChange(coins: IntArray, amount: Int): Int {
+        var dp = IntArray(amount+1) {0x3f3f3f3f}
+
+        dp[0] = 0
+
+        for (i in coins) {
+            for (j in i .. amount) {
+                if (dp[j-i] != 0x3f3f3f3f) {
+                    dp[j] = Math.min(dp[j], dp[j-i]+1)
+                }
+            }
+        }
+        return if (dp[amount] == 0x3f3f3f3f) -1 else dp[amount]
+    }
+
+
+
     data class Node(
         var num: Int = 0,
         var step: Int = 0
     )
-
-    fun coinChange(coins: IntArray, amount: Int): Int {
+    // dp+bfs
+    fun coinChange2(coins: IntArray, amount: Int): Int {
         val n = coins.size
         var dp = BooleanArray(amount+1)
         dp[0] = true
