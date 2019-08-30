@@ -41,6 +41,7 @@
 | 104 | [maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Kotlin](./easy/104.maximum-depth-of-binary-tree.kt) | Easy |
 | 120 | [triangle](https://leetcode.com/problems/triangle/description/) | [Kotlin](./medium/120.triangle.kt) | Medium |
 | 139 | [word-break](https://leetcode.com/problems/word-break/description/) | [Kotlin](./medium/139.word-break.kt) | Medium |
+| 140 | [word-break-ii](https://leetcode.com/problems/word-break-ii/description/) | [Kotlin](./hard/140.word-break-ii.kt) | Hard |
 | 204 | [count-primes](https://leetcode.com/problems/count-primes/description/) | [Kotlin](./easy/204.count-primes.kt) | Easy |
 | 207 | [course-schedule](https://leetcode.com/problems/course-schedule/description/) | [Kotlin](./medium/207.course-schedule.kt) | Medium |
 | 268 | [missing-number](https://leetcode.com/problems/missing-number/description/) | [Kotlin](./easy/268.missing-number.kt) | Easy |
