@@ -42,8 +42,10 @@
 | 120 | [triangle](https://leetcode.com/problems/triangle/description/) | [Kotlin](./medium/120.triangle.kt) | Medium |
 | 139 | [word-break](https://leetcode.com/problems/word-break/description/) | [Kotlin](./medium/139.word-break.kt) | Medium |
 | 140 | [word-break-ii](https://leetcode.com/problems/word-break-ii/description/) | [Kotlin](./hard/140.word-break-ii.kt) | Hard |
+| 198 | [house-robber](https://leetcode.com/problems/house-robber/description/) | [Kotlin](./easy/198.house-robber.kt) | Easy |
 | 204 | [count-primes](https://leetcode.com/problems/count-primes/description/) | [Kotlin](./easy/204.count-primes.kt) | Easy |
 | 207 | [course-schedule](https://leetcode.com/problems/course-schedule/description/) | [Kotlin](./medium/207.course-schedule.kt) | Medium |
+| 213 | [house-robber-ii](https://leetcode.com/problems/house-robber-ii/description/) | [Kotlin](./medium/213.house-robber-ii.kt) | Medium |
 | 268 | [missing-number](https://leetcode.com/problems/missing-number/description/) | [Kotlin](./easy/268.missing-number.kt) | Easy |
 | 279 | [perfect-squares](https://leetcode.com/problems/perfect-squares/description/) | [Kotlin](./medium/279.perfect-squares.kt) | Medium |
 | 300 | [longest-increasing-subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [Kotlin](./medium/300.longest-increasing-subsequence.kt) | Medium |
