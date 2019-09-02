@@ -39,6 +39,7 @@
 | 95 | [unique-binary-search-trees-ii](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) | [Kotlin](./medium/95.unique-binary-search-trees-ii.kt) | Medium |
 | 96 | [unique-binary-search-trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [Kotlin](./medium/96.unique-binary-search-trees.kt) | Medium |
 | 104 | [maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Kotlin](./easy/104.maximum-depth-of-binary-tree.kt) | Easy |
+| 112 | [path-sum](https://leetcode.com/problems/path-sum/description/) | [Kotlin](./easy/112.path-sum.kt) | Easy |
 | 120 | [triangle](https://leetcode.com/problems/triangle/description/) | [Kotlin](./medium/120.triangle.kt) | Medium |
 | 139 | [word-break](https://leetcode.com/problems/word-break/description/) | [Kotlin](./medium/139.word-break.kt) | Medium |
 | 140 | [word-break-ii](https://leetcode.com/problems/word-break-ii/description/) | [Kotlin](./hard/140.word-break-ii.kt) | Hard |
