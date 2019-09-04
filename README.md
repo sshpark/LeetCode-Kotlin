@@ -46,6 +46,7 @@
 | 198 | [house-robber](https://leetcode.com/problems/house-robber/description/) | [Kotlin](./easy/198.house-robber.kt) | Easy |
 | 204 | [count-primes](https://leetcode.com/problems/count-primes/description/) | [Kotlin](./easy/204.count-primes.kt) | Easy |
 | 207 | [course-schedule](https://leetcode.com/problems/course-schedule/description/) | [Kotlin](./medium/207.course-schedule.kt) | Medium |
+| 210 | [course-schedule-ii](https://leetcode.com/problems/course-schedule-ii/description/) | [Kotlin](./medium/210.course-schedule-ii.kt) | Medium |
 | 213 | [house-robber-ii](https://leetcode.com/problems/house-robber-ii/description/) | [Kotlin](./medium/213.house-robber-ii.kt) | Medium |
 | 268 | [missing-number](https://leetcode.com/problems/missing-number/description/) | [Kotlin](./easy/268.missing-number.kt) | Easy |
 | 279 | [perfect-squares](https://leetcode.com/problems/perfect-squares/description/) | [Kotlin](./medium/279.perfect-squares.kt) | Medium |
