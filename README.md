@@ -54,6 +54,7 @@
 | 300 | [longest-increasing-subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [Kotlin](./medium/300.longest-increasing-subsequence.kt) | Medium |
 | 303 | [range-sum-query-immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) | [Kotlin](./easy/303.range-sum-query-immutable.kt) | Easy |
 | 304 | [range-sum-query-2-d-immutable](https://leetcode.com/problems/range-sum-query-2-d-immutable/description/) | [Kotlin](./medium/304.range-sum-query-2-d-immutable.kt) | Medium |
+| 310 | [minimum-height-trees](https://leetcode.com/problems/minimum-height-trees/description/) | [Kotlin](./medium/310.minimum-height-trees.kt) | Medium |
 | 322 | [coin-change](https://leetcode.com/problems/coin-change/description/) | [Kotlin](./medium/322.coin-change.kt) | Medium |
 | 329 | [longest-increasing-path-in-a-matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/) | [Kotlin](./hard/329.longest-increasing-path-in-a-matrix.kt) | Hard |
 | 999 | [available-captures-for-rook](https://leetcode.com/problems/available-captures-for-rook/description/) | [Kotlin](./easy/999.available-captures-for-rook.kt) | Easy |
