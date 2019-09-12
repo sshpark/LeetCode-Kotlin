@@ -57,4 +57,5 @@
 | 310 | [minimum-height-trees](https://leetcode.com/problems/minimum-height-trees/description/) | [Kotlin](./medium/310.minimum-height-trees.kt) | Medium |
 | 322 | [coin-change](https://leetcode.com/problems/coin-change/description/) | [Kotlin](./medium/322.coin-change.kt) | Medium |
 | 329 | [longest-increasing-path-in-a-matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/) | [Kotlin](./hard/329.longest-increasing-path-in-a-matrix.kt) | Hard |
+| 402 | [remove-k-digits](https://leetcode.com/problems/remove-k-digits/description/) | [Kotlin](./medium/402.remove-k-digits.kt) | Medium |
 | 999 | [available-captures-for-rook](https://leetcode.com/problems/available-captures-for-rook/description/) | [Kotlin](./easy/999.available-captures-for-rook.kt) | Easy |
