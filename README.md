@@ -30,6 +30,7 @@
 | 62 | [unique-paths](https://leetcode.com/problems/unique-paths/description/) | [Kotlin](./medium/62.unique-paths.kt) | Medium |
 | 63 | [unique-paths-ii](https://leetcode.com/problems/unique-paths-ii/description/) | [Kotlin](./medium/63.unique-paths-ii.kt) | Medium |
 | 64 | [minimum-path-sum](https://leetcode.com/problems/minimum-path-sum/description/) | [Kotlin](./medium/64.minimum-path-sum.kt) | Medium |
+| 67 | [add-binary](https://leetcode.com/problems/add-binary/description/) | [Kotlin](./easy/67.add-binary.kt) | Easy |
 | 69 | [sqrt-x](https://leetcode.com/problems/sqrt-x/description/) | [Kotlin](./easy/69.sqrt-x.kt) | Easy |
 | 70 | [climbing-stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Kotlin](./easy/70.climbing-stairs.kt) | Easy |
 | 72 | [edit-distance](https://leetcode.com/problems/edit-distance/description/) | [Kotlin](./hard/72.edit-distance.kt) | Hard |
@@ -38,6 +39,7 @@
 | 94 | [binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [Kotlin](./medium/94.binary-tree-inorder-traversal.kt) | Medium |
 | 95 | [unique-binary-search-trees-ii](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) | [Kotlin](./medium/95.unique-binary-search-trees-ii.kt) | Medium |
 | 96 | [unique-binary-search-trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [Kotlin](./medium/96.unique-binary-search-trees.kt) | Medium |
+| 98 | [validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [Kotlin](./medium/98.validate-binary-search-tree.kt) | Medium |
 | 104 | [maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Kotlin](./easy/104.maximum-depth-of-binary-tree.kt) | Easy |
 | 112 | [path-sum](https://leetcode.com/problems/path-sum/description/) | [Kotlin](./easy/112.path-sum.kt) | Easy |
 | 120 | [triangle](https://leetcode.com/problems/triangle/description/) | [Kotlin](./medium/120.triangle.kt) | Medium |
