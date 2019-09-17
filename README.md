@@ -51,6 +51,7 @@
 | 207 | [course-schedule](https://leetcode.com/problems/course-schedule/description/) | [Kotlin](./medium/207.course-schedule.kt) | Medium |
 | 210 | [course-schedule-ii](https://leetcode.com/problems/course-schedule-ii/description/) | [Kotlin](./medium/210.course-schedule-ii.kt) | Medium |
 | 213 | [house-robber-ii](https://leetcode.com/problems/house-robber-ii/description/) | [Kotlin](./medium/213.house-robber-ii.kt) | Medium |
+| 264 | [ugly-number-ii](https://leetcode.com/problems/ugly-number-ii/description/) | [Kotlin](./medium/264.ugly-number-ii.kt) | Medium |
 | 268 | [missing-number](https://leetcode.com/problems/missing-number/description/) | [Kotlin](./easy/268.missing-number.kt) | Easy |
 | 279 | [perfect-squares](https://leetcode.com/problems/perfect-squares/description/) | [Kotlin](./medium/279.perfect-squares.kt) | Medium |
 | 300 | [longest-increasing-subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [Kotlin](./medium/300.longest-increasing-subsequence.kt) | Medium |
@@ -59,5 +60,6 @@
 | 310 | [minimum-height-trees](https://leetcode.com/problems/minimum-height-trees/description/) | [Kotlin](./medium/310.minimum-height-trees.kt) | Medium |
 | 322 | [coin-change](https://leetcode.com/problems/coin-change/description/) | [Kotlin](./medium/322.coin-change.kt) | Medium |
 | 329 | [longest-increasing-path-in-a-matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/) | [Kotlin](./hard/329.longest-increasing-path-in-a-matrix.kt) | Hard |
+| 372 | [super-pow](https://leetcode.com/problems/super-pow/description/) | [Kotlin](./medium/372.super-pow.kt) | Medium |
 | 402 | [remove-k-digits](https://leetcode.com/problems/remove-k-digits/description/) | [Kotlin](./medium/402.remove-k-digits.kt) | Medium |
 | 999 | [available-captures-for-rook](https://leetcode.com/problems/available-captures-for-rook/description/) | [Kotlin](./easy/999.available-captures-for-rook.kt) | Easy |
