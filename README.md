@@ -62,4 +62,5 @@
 | 329 | [longest-increasing-path-in-a-matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/) | [Kotlin](./hard/329.longest-increasing-path-in-a-matrix.kt) | Hard |
 | 372 | [super-pow](https://leetcode.com/problems/super-pow/description/) | [Kotlin](./medium/372.super-pow.kt) | Medium |
 | 402 | [remove-k-digits](https://leetcode.com/problems/remove-k-digits/description/) | [Kotlin](./medium/402.remove-k-digits.kt) | Medium |
+| 869 | [reordered-power-of-2](https://leetcode.com/problems/reordered-power-of-2/description/) | [Kotlin](./medium/869.reordered-power-of-2.kt) | Medium |
 | 999 | [available-captures-for-rook](https://leetcode.com/problems/available-captures-for-rook/description/) | [Kotlin](./easy/999.available-captures-for-rook.kt) | Easy |
