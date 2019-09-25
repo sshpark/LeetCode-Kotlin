@@ -20,6 +20,7 @@
 | 18 | [4-sum](https://leetcode.com/problems/4-sum/description/) | [Kotlin](./medium/18.4-sum.kt) | Medium |
 | 27 | [remove-element](https://leetcode.com/problems/remove-element/description/) | [Kotlin](./easy/27.remove-element.kt) | Easy |
 | 29 | [divide-two-integers](https://leetcode.com/problems/divide-two-integers/description/) | [Kotlin](./medium/29.divide-two-integers.kt) | Medium |
+| 31 | [next-permutation](https://leetcode.com/problems/next-permutation/description/) | [Kotlin](./medium/31.next-permutation.kt) | Medium |
 | 32 | [longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | [Kotlin](./hard/32.longest-valid-parentheses.kt) | Hard |
 | 38 | [count-and-say](https://leetcode.com/problems/count-and-say/description/) | [Kotlin](./easy/38.count-and-say.kt) | Easy |
 | 44 | [wildcard-matching](https://leetcode.com/problems/wildcard-matching/description/) | [Kotlin](./hard/44.wildcard-matching.kt) | Hard |
