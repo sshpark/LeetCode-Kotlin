@@ -18,7 +18,9 @@
 | 16 | [3-sum-closest](https://leetcode.com/problems/3-sum-closest/description/) | [Kotlin](./medium/16.3-sum-closest.kt) | Medium |
 | 17 | [letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [Kotlin](./medium/17.letter-combinations-of-a-phone-number.kt) | Medium |
 | 18 | [4-sum](https://leetcode.com/problems/4-sum/description/) | [Kotlin](./medium/18.4-sum.kt) | Medium |
+| 26 | [remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Kotlin](./easy/26.remove-duplicates-from-sorted-array.kt) | Easy |
 | 27 | [remove-element](https://leetcode.com/problems/remove-element/description/) | [Kotlin](./easy/27.remove-element.kt) | Easy |
+| 28 | [implement-str-str](https://leetcode.com/problems/implement-str-str/description/) | [Kotlin](./easy/28.implement-str-str.kt) | Easy |
 | 29 | [divide-two-integers](https://leetcode.com/problems/divide-two-integers/description/) | [Kotlin](./medium/29.divide-two-integers.kt) | Medium |
 | 31 | [next-permutation](https://leetcode.com/problems/next-permutation/description/) | [Kotlin](./medium/31.next-permutation.kt) | Medium |
 | 32 | [longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | [Kotlin](./hard/32.longest-valid-parentheses.kt) | Hard |
