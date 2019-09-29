@@ -68,3 +68,4 @@
 | 515 | [find-largest-value-in-each-tree-row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/) | [Kotlin](./medium/515.find-largest-value-in-each-tree-row.kt) | Medium |
 | 869 | [reordered-power-of-2](https://leetcode.com/problems/reordered-power-of-2/description/) | [Kotlin](./medium/869.reordered-power-of-2.kt) | Medium |
 | 999 | [available-captures-for-rook](https://leetcode.com/problems/available-captures-for-rook/description/) | [Kotlin](./easy/999.available-captures-for-rook.kt) | Easy |
+| 1038 | [available-captures-for-rook](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/) | [Kotlin](./easy/1038.binary-search-tree-to-greater-sum-tree.kt) | medium |
