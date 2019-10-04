@@ -66,5 +66,7 @@
 | 372 | [super-pow](https://leetcode.com/problems/super-pow/description/) | [Kotlin](./medium/372.super-pow.kt) | Medium |
 | 402 | [remove-k-digits](https://leetcode.com/problems/remove-k-digits/description/) | [Kotlin](./medium/402.remove-k-digits.kt) | Medium |
 | 515 | [find-largest-value-in-each-tree-row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/) | [Kotlin](./medium/515.find-largest-value-in-each-tree-row.kt) | Medium |
+| 621 | [task-scheduler](https://leetcode.com/problems/task-scheduler/description/) | [Kotlin](./medium/621.task-scheduler.kt) | Medium |
+| 859 | [buddy-strings](https://leetcode.com/problems/buddy-strings/description/) | [Kotlin](./easy/859.buddy-strings.kt) | Easy |
 | 869 | [reordered-power-of-2](https://leetcode.com/problems/reordered-power-of-2/description/) | [Kotlin](./medium/869.reordered-power-of-2.kt) | Medium |
 | 999 | [available-captures-for-rook](https://leetcode.com/problems/available-captures-for-rook/description/) | [Kotlin](./easy/999.available-captures-for-rook.kt) | Easy |
