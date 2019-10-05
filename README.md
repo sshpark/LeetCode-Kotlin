@@ -18,6 +18,7 @@
 | 16 | [3-sum-closest](https://leetcode.com/problems/3-sum-closest/description/) | [Kotlin](./medium/16.3-sum-closest.kt) | Medium |
 | 17 | [letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [Kotlin](./medium/17.letter-combinations-of-a-phone-number.kt) | Medium |
 | 18 | [4-sum](https://leetcode.com/problems/4-sum/description/) | [Kotlin](./medium/18.4-sum.kt) | Medium |
+| 19 | [remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [Kotlin](./medium/19.remove-nth-node-from-end-of-list.kt) | Medium |
 | 26 | [remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Kotlin](./easy/26.remove-duplicates-from-sorted-array.kt) | Easy |
 | 27 | [remove-element](https://leetcode.com/problems/remove-element/description/) | [Kotlin](./easy/27.remove-element.kt) | Easy |
 | 28 | [implement-str-str](https://leetcode.com/problems/implement-str-str/description/) | [Kotlin](./easy/28.implement-str-str.kt) | Easy |
@@ -70,4 +71,4 @@
 | 859 | [buddy-strings](https://leetcode.com/problems/buddy-strings/description/) | [Kotlin](./easy/859.buddy-strings.kt) | Easy |
 | 869 | [reordered-power-of-2](https://leetcode.com/problems/reordered-power-of-2/description/) | [Kotlin](./medium/869.reordered-power-of-2.kt) | Medium |
 | 999 | [available-captures-for-rook](https://leetcode.com/problems/available-captures-for-rook/description/) | [Kotlin](./easy/999.available-captures-for-rook.kt) | Easy |
-| 1038 | [available-captures-for-rook](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/) | [Kotlin](./easy/1038.binary-search-tree-to-greater-sum-tree.kt) | medium |
+| 1038 | [binary-search-tree-to-greater-sum-tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/) | [Kotlin](./medium/1038.binary-search-tree-to-greater-sum-tree.kt) | Medium |
