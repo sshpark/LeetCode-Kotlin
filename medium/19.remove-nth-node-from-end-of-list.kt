@@ -47,6 +47,7 @@
  */
 
 class Solution {
+    // 快慢指针 
     fun removeNthFromEnd(head: ListNode?, n: Int): ListNode? {
         val temp: ListNode? = ListNode(0).apply { next = head }
 
