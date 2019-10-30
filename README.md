@@ -28,6 +28,7 @@
 | 31 | [next-permutation](https://leetcode.com/problems/next-permutation/description/) | [Kotlin](./medium/31.next-permutation.kt) | Medium |
 | 32 | [longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | [Kotlin](./hard/32.longest-valid-parentheses.kt) | Hard |
 | 33 | [search-in-rotated-sorted-array.](https://leetcode.com/problems/search-in-rotated-sorted-array./description/) | [C++](./medium/33.search-in-rotated-sorted-array.cpp) | Medium |
+| 34 | [find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | [Kotlin](./medium/34.find-first-and-last-position-of-element-in-sorted-array.kt) | Medium |
 | 38 | [count-and-say](https://leetcode.com/problems/count-and-say/description/) | [Kotlin](./easy/38.count-and-say.kt) | Easy |
 | 44 | [wildcard-matching](https://leetcode.com/problems/wildcard-matching/description/) | [Kotlin](./hard/44.wildcard-matching.kt) | Hard |
 | 50 | [pow-x-n](https://leetcode.com/problems/pow-x-n/description/) | [Kotlin](./medium/50.pow-x-n.kt) | Medium |
