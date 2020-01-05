@@ -27,7 +27,7 @@
 | 29 | [divide-two-integers](https://leetcode.com/problems/divide-two-integers/description/) | [Kotlin](./medium/29.divide-two-integers.kt) | Medium |
 | 31 | [next-permutation](https://leetcode.com/problems/next-permutation/description/) | [Kotlin](./medium/31.next-permutation.kt) | Medium |
 | 32 | [longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | [Kotlin](./hard/32.longest-valid-parentheses.kt) | Hard |
-| 33 | [search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [C++](./medium/33.search-in-rotated-sorted-array.cpp) | Medium |
+| 33 | [search-in-rotated-sorted-array.](https://leetcode.com/problems/search-in-rotated-sorted-array./description/) | [C++](./medium/33.search-in-rotated-sorted-array.cpp) | Medium |
 | 34 | [find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | [Kotlin](./medium/34.find-first-and-last-position-of-element-in-sorted-array.kt) | Medium |
 | 38 | [count-and-say](https://leetcode.com/problems/count-and-say/description/) | [Kotlin](./easy/38.count-and-say.kt) | Easy |
 | 44 | [wildcard-matching](https://leetcode.com/problems/wildcard-matching/description/) | [Kotlin](./hard/44.wildcard-matching.kt) | Hard |
@@ -77,3 +77,4 @@
 | 999 | [available-captures-for-rook](https://leetcode.com/problems/available-captures-for-rook/description/) | [Kotlin](./easy/999.available-captures-for-rook.kt) | Easy |
 | 1038 | [binary-search-tree-to-greater-sum-tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/) | [Kotlin](./medium/1038.binary-search-tree-to-greater-sum-tree.kt) | Medium |
 | 1305 | [all-elements-in-two-binary-search-trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/description/) | [Kotlin](./medium/1305.all-elements-in-two-binary-search-trees.kt) | Medium |
+| 1306 | [jump-game-iii](https://leetcode.com/problems/jump-game-iii/description/) | [Kotlin](./medium/1306.jump-game-iii.kt) | Medium |
