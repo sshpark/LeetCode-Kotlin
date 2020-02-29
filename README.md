@@ -19,6 +19,7 @@
 | 17 | [letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [Kotlin](./medium/17.letter-combinations-of-a-phone-number.kt) | Medium |
 | 18 | [4-sum](https://leetcode.com/problems/4-sum/description/) | [Kotlin](./medium/18.4-sum.kt) | Medium |
 | 19 | [remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [Kotlin](./medium/19.remove-nth-node-from-end-of-list.kt) | Medium |
+| 20 | [valid-parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Kotlin](./easy/20.valid-parentheses.kt) | Easy |
 | 22 | [generate-parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [Kotlin](./medium/22.generate-parentheses.kt) | Medium |
 | 24 | [swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [Kotlin](./medium/24.swap-nodes-in-pairs.kt) | Medium |
 | 26 | [remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Kotlin](./easy/26.remove-duplicates-from-sorted-array.kt) | Easy |
