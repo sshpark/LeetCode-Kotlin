@@ -79,3 +79,5 @@
 | 1038 | [binary-search-tree-to-greater-sum-tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/) | [Kotlin](./medium/1038.binary-search-tree-to-greater-sum-tree.kt) | Medium |
 | 1305 | [all-elements-in-two-binary-search-trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/description/) | [Kotlin](./medium/1305.all-elements-in-two-binary-search-trees.kt) | Medium |
 | 1306 | [jump-game-iii](https://leetcode.com/problems/jump-game-iii/description/) | [Kotlin](./medium/1306.jump-game-iii.kt) | Medium |
+| 1309 | [decrypt-string-from-alphabet-to-integer-mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/) | [Kotlin](./easy/1309.decrypt-string-from-alphabet-to-integer-mapping.kt) | Easy |
+| 1362 | [closest-divisors](https://leetcode.com/problems/closest-divisors/description/) | [Kotlin](./medium/1362.closest-divisors.kt) | Medium |
