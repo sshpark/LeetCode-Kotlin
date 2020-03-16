@@ -81,7 +81,11 @@
 | 1306 | [jump-game-iii](https://leetcode.com/problems/jump-game-iii/description/) | [Kotlin](./medium/1306.jump-game-iii.kt) | Medium |
 | 1309 | [decrypt-string-from-alphabet-to-integer-mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/) | [Kotlin](./easy/1309.decrypt-string-from-alphabet-to-integer-mapping.kt) | Easy |
 | 1362 | [closest-divisors](https://leetcode.com/problems/closest-divisors/description/) | [Kotlin](./medium/1362.closest-divisors.kt) | Medium |
+| 1370 | [increasing-decreasing-string](https://leetcode.com/problems/increasing-decreasing-string/description/) | [Kotlin](./easy/1370.increasing-decreasing-string.kt) | Easy |
 | 1374 | [generate-a-string-with-characters-that-have-odd-counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/description/) | [Kotlin](./easy/1374.generate-a-string-with-characters-that-have-odd-counts.kt) | Easy |
 | 1375 | [bulb-switcher-iii](https://leetcode.com/problems/bulb-switcher-iii/description/) | [Kotlin](./medium/1375.bulb-switcher-iii.kt) | Medium |
 | 1376 | [time-needed-to-inform-all-employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/description/) | [Kotlin](./medium/1376.time-needed-to-inform-all-employees.kt) | Medium |
 | 1377 | [frog-position-after-t-seconds](https://leetcode.com/problems/frog-position-after-t-seconds/description/) | [Kotlin](./hard/1377.frog-position-after-t-seconds.kt) | Hard |
+| 1380 | [lucky-numbers-in-a-matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/) | [Kotlin](./easy/1380.lucky-numbers-in-a-matrix.kt) | Easy |
+| 1381 | [design-a-stack-with-increment-operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/description/) | [Kotlin](./medium/1381.design-a-stack-with-increment-operation.kt) | Medium |
+| 1382 | [balance-a-binary-search-tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/) | [Kotlin](./medium/1382.balance-a-binary-search-tree.kt) | Medium |
