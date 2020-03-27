@@ -1,6 +1,6 @@
 import java.io.File
 
-fun main(args: Array<String>) {
+//fun main(args: Array<String>) {
     val file = File("./README.md")
     file.writeText("# LeetCode\n")
     file.appendText("| # | Title | Solution | Difficulty |\n")
@@ -65,4 +65,4 @@ fun main(args: Array<String>) {
     readmeContents.forEach {
         file.appendText(it.second)
     }
-}
+//}

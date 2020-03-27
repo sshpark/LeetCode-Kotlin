@@ -75,6 +75,7 @@
 | 621 | [task-scheduler](https://leetcode.com/problems/task-scheduler/description/) | [Kotlin](./medium/621.task-scheduler.kt) | Medium |
 | 859 | [buddy-strings](https://leetcode.com/problems/buddy-strings/description/) | [Kotlin](./easy/859.buddy-strings.kt) | Easy |
 | 869 | [reordered-power-of-2](https://leetcode.com/problems/reordered-power-of-2/description/) | [Kotlin](./medium/869.reordered-power-of-2.kt) | Medium |
+| 872 | [leaf-similar-trees](https://leetcode.com/problems/leaf-similar-trees/description/) | [Kotlin](./easy/872.leaf-similar-trees.kt) | Easy |
 | 999 | [available-captures-for-rook](https://leetcode.com/problems/available-captures-for-rook/description/) | [Kotlin](./easy/999.available-captures-for-rook.kt) | Easy |
 | 1038 | [binary-search-tree-to-greater-sum-tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/) | [Kotlin](./medium/1038.binary-search-tree-to-greater-sum-tree.kt) | Medium |
 | 1305 | [all-elements-in-two-binary-search-trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/description/) | [Kotlin](./medium/1305.all-elements-in-two-binary-search-trees.kt) | Medium |
