@@ -20,7 +20,9 @@
 | 18 | [4-sum](https://leetcode.com/problems/4-sum/description/) | [Kotlin](./medium/18.4-sum.kt) | Medium |
 | 19 | [remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [Kotlin](./medium/19.remove-nth-node-from-end-of-list.kt) | Medium |
 | 20 | [valid-parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Kotlin](./easy/20.valid-parentheses.kt) | Easy |
+| 21 | [merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Kotlin](./easy/21.merge-two-sorted-lists.kt) | Easy |
 | 22 | [generate-parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [Kotlin](./medium/22.generate-parentheses.kt) | Medium |
+| 23 | [merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Kotlin](./hard/23.merge-k-sorted-lists.kt) | Hard |
 | 24 | [swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [Kotlin](./medium/24.swap-nodes-in-pairs.kt) | Medium |
 | 26 | [remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Kotlin](./easy/26.remove-duplicates-from-sorted-array.kt) | Easy |
 | 27 | [remove-element](https://leetcode.com/problems/remove-element/description/) | [Kotlin](./easy/27.remove-element.kt) | Easy |
@@ -55,6 +57,8 @@
 | 127 | [word-ladder](https://leetcode.com/problems/word-ladder/description/) | [Kotlin](./medium/127.word-ladder.kt) | Medium |
 | 139 | [word-break](https://leetcode.com/problems/word-break/description/) | [Kotlin](./medium/139.word-break.kt) | Medium |
 | 140 | [word-break-ii](https://leetcode.com/problems/word-break-ii/description/) | [Kotlin](./hard/140.word-break-ii.kt) | Hard |
+| 162 | [find-peak-element](https://leetcode.com/problems/find-peak-element/description/) | [Kotlin](./medium/162.find-peak-element.kt) | Medium |
+| 169 | [majority-element](https://leetcode.com/problems/majority-element/description/) | [Kotlin](./easy/169.majority-element.kt) | Easy |
 | 198 | [house-robber](https://leetcode.com/problems/house-robber/description/) | [Kotlin](./easy/198.house-robber.kt) | Easy |
 | 204 | [count-primes](https://leetcode.com/problems/count-primes/description/) | [Kotlin](./easy/204.count-primes.kt) | Easy |
 | 207 | [course-schedule](https://leetcode.com/problems/course-schedule/description/) | [Kotlin](./medium/207.course-schedule.kt) | Medium |
@@ -90,3 +94,8 @@
 | 1380 | [lucky-numbers-in-a-matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/) | [Kotlin](./easy/1380.lucky-numbers-in-a-matrix.kt) | Easy |
 | 1381 | [design-a-stack-with-increment-operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/description/) | [Kotlin](./medium/1381.design-a-stack-with-increment-operation.kt) | Medium |
 | 1382 | [balance-a-binary-search-tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/) | [Kotlin](./medium/1382.balance-a-binary-search-tree.kt) | Medium |
+| 1404 | [number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/description/) | [Kotlin](./medium/1404.number-of-steps-to-reduce-a-number-in-binary-representation-to-one.kt) | Medium |
+| 1405 | [longest-happy-string](https://leetcode.com/problems/longest-happy-string/description/) | [Kotlin](./medium/1405.longest-happy-string.kt) | Medium |
+| 1472 | [design-browser-history](https://leetcode.com/problems/design-browser-history/description/) | [Kotlin](./medium/1472.design-browser-history.kt) | Medium |
+| 1473 | [paint-house-iii](https://leetcode.com/problems/paint-house-iii/description/) | [Kotlin](./hard/1473.paint-house-iii.kt) | Hard |
+| 1487 | [making-file-names-unique](https://leetcode.com/problems/making-file-names-unique/description/) | [Kotlin](./medium/1487.making-file-names-unique.kt) | Medium |
