@@ -1,4 +1,5 @@
 # LeetCode
+**Total problems: 98, easy: 30, medium: 58, hard: 10**
 | # | Title | Solution | Difficulty |
 | ------ | ------ | ------ | ------ |
 | 1 | [two-sum](https://leetcode.com/problems/two-sum/description/) | [Kotlin](./easy/1.two-sum.kt) | Easy |
