@@ -20,21 +20,7 @@ fun readFiles(filename: String, readmeContents: MutableList<Pair<Int, String>>):
 }
 
 var readmeContents = mutableListOf<Pair<Int, String>>()
-
-val leetcodeFolder = File("./").walk()
-leetcodeFolder.maxDepth(1)
-            .filter { it.isFile }
-            .filter { it.extension == "jar" }
-            .forEach {
-                try {
-                    it.deleteRecursively()
-                } catch(e: Exception) {
-                    println("删除失败：  ${it.absolutePath}")  
-                }
-            }
-
 val easy_problems = readFiles("easy", readmeContents)
-
 val hard_problems = readFiles("hard", readmeContents)
 val medium_problems = readFiles("medium", readmeContents)
 
