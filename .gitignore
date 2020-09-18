@@ -1,0 +1,6 @@
+.vscode/
+leetcode/
+*.cpp
+*.jar
+.sh
+
