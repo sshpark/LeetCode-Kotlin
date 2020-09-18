@@ -9,9 +9,20 @@ fun readFiles(filename: String, readmeContents: MutableList<Pair<Int, String>>):
             .forEach { f ->
                 val ext = if (f.extension == "kt") "Kotlin" else "C++"
                 val name = f.name
-                val firstDotIndex = name.indexOf('.', 0)
-                val id = name.substring(0, firstDotIndex)
-                val title = name.substring(firstDotIndex+1, name.length-3)
+                val c = if (name[0] == '[') ']' else '.'
+                val firstIndex = name.indexOf(c, 0)
+
+                var id: String
+                var title: String = name.substring(firstIndex+1, name.length-3)
+
+
+                if (c == '.') { // coding in VS-Code
+                    id = name.substring(0, firstIndex)
+                } else {        // coding in IDEA
+                    id = name.substring(1, firstIndex)
+                    title = title.toLowerCase().split(' ').joinToString("-")
+                }
+
                 val leetcodeLink = "[$title](https://leetcode.com/problems/$title/description/)"
                 readmeContents.add(Pair(id.toInt(), "| $id | $leetcodeLink | [$ext]($f) | ${filename.capitalize()} |\n"))
                 numOfFiles++
