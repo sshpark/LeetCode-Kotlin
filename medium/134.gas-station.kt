@@ -66,23 +66,25 @@
 class Solution {
     fun canCompleteCircuit(gas: IntArray, cost: IntArray): Int {
         val n = gas.size
+        var sum = 0
         for (i in 0 until n) {
-            var st = i
-            var restGas = 0
+            sum += gas[i]-cost[i]
+        }
+        if (sum < 0) return -1
+        var start = 0
+        var restGas = 0
 
-            while (true) {
-                restGas += gas[st]
-                restGas -= cost[st]
-                if (restGas < 0) {
-                    break
-                }
-                st = (st+1)%n
-                if (st == i) return st
+        for (i in 0 until n) {
+            var temp = gas[i]-cost[i]
+
+            if (restGas+temp < 0) {
+                start = i+1
+                restGas = 0
+            } else {
+                restGas += temp
             }
         }
-        //gas  = [1,2,3,4,5]
-        //cost = [3,4,5,1,2]
-        return -1
+        return start
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
