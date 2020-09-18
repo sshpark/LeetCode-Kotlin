@@ -21,10 +21,15 @@ fun readFiles(filename: String, readmeContents: MutableList<Pair<Int, String>>):
                 } else {        // coding in IDEA
                     id = name.substring(1, firstIndex)
                     title = title.toLowerCase().split(' ').joinToString("-")
+                    f.renameTo(File("./$filename/${id}.${title}.${f.extension}"))
                 }
-
                 val leetcodeLink = "[$title](https://leetcode.com/problems/$title/description/)"
-                readmeContents.add(Pair(id.toInt(), "| $id | $leetcodeLink | [$ext](./$filename/$name) | ${filename.capitalize()} |\n"))
+                readmeContents.add(
+                    Pair(
+                        id.toInt(),
+                        "| $id | $leetcodeLink | [$ext](./$filename/${id}.${title}.${f.extension}) | ${filename.capitalize()} |\n"
+                    )
+                )
                 numOfFiles++
             }
     return numOfFiles

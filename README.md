@@ -57,7 +57,7 @@
 | 114 | [flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/) | [Kotlin](./medium/114.flatten-binary-tree-to-linked-list.kt) | Medium |
 | 120 | [triangle](https://leetcode.com/problems/triangle/description/) | [Kotlin](./medium/120.triangle.kt) | Medium |
 | 127 | [word-ladder](https://leetcode.com/problems/word-ladder/description/) | [Kotlin](./medium/127.word-ladder.kt) | Medium |
-| 134 | [gas-station](https://leetcode.com/problems/gas-station/description/) | [Kotlin](./medium/[134]Gas Station.kt) | Medium |
+| 134 | [gas-station](https://leetcode.com/problems/gas-station/description/) | [Kotlin](./medium/134.gas-station.kt) | Medium |
 | 139 | [word-break](https://leetcode.com/problems/word-break/description/) | [Kotlin](./medium/139.word-break.kt) | Medium |
 | 140 | [word-break-ii](https://leetcode.com/problems/word-break-ii/description/) | [Kotlin](./hard/140.word-break-ii.kt) | Hard |
 | 162 | [find-peak-element](https://leetcode.com/problems/find-peak-element/description/) | [Kotlin](./medium/162.find-peak-element.kt) | Medium |
