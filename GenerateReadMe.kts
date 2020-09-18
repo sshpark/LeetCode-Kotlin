@@ -24,7 +24,7 @@ fun readFiles(filename: String, readmeContents: MutableList<Pair<Int, String>>):
                 }
 
                 val leetcodeLink = "[$title](https://leetcode.com/problems/$title/description/)"
-                readmeContents.add(Pair(id.toInt(), "| $id | $leetcodeLink | [$ext]($f) | ${filename.capitalize()} |\n"))
+                readmeContents.add(Pair(id.toInt(), "| $id | $leetcodeLink | [$ext](./$filename/$name) | ${filename.capitalize()} |\n"))
                 numOfFiles++
             }
     return numOfFiles
