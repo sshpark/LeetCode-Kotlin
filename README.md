@@ -1,3 +1,6 @@
+# LeetCode
+**Total problems: 108, easy: 32, medium: 64, hard: 12**
+| # | Title | Solution | Difficulty |
 | ------ | ------ | ------ | ------ |
 | 1 | [two-sum](https://leetcode.com/problems/two-sum/description/) | [Kotlin](./easy/1.two-sum.kt) | Easy |
 | 2 | [add-two-numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Kotlin](./easy/2.add-two-numbers.kt) | Easy |
