@@ -41,7 +41,11 @@ val hard_problems = readFiles("hard", readmeContents)
 val medium_problems = readFiles("medium", readmeContents)
 
 val file = File("./README.md")
-file.writeText("# LeetCode\n") // clear content
+
+// clear content
+file.writeText("# LeetCode\n")
+
+// append content
 file.appendText("**Total problems: ${easy_problems+medium_problems+hard_problems}, easy: ${easy_problems}, medium: ${medium_problems}, hard: ${hard_problems}**\n")
 file.appendText("| # | Title | Solution | Difficulty |\n")
 file.appendText("| ------ | ------ | ------ | ------ |\n")

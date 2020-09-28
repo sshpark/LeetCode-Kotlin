@@ -1,5 +1,5 @@
 # LeetCode
-**Total problems: 108, easy: 32, medium: 64, hard: 12**
+**Total problems: 109, easy: 32, medium: 65, hard: 12**
 | # | Title | Solution | Difficulty |
 | ------ | ------ | ------ | ------ |
 | 1 | [two-sum](https://leetcode.com/problems/two-sum/description/) | [Kotlin](./easy/1.two-sum.kt) | Easy |
@@ -110,3 +110,4 @@
 | 1583 | [count-unhappy-friends](https://leetcode.com/problems/count-unhappy-friends/description/) | [Kotlin](./medium/1583.count-unhappy-friends.kt) | Medium |
 | 1584 | [min-cost-to-connect-all-points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) | [Kotlin](./medium/1584.min-cost-to-connect-all-points.kt) | Medium |
 | 1585 | [check-if-string-is-transformable-with-substring-sort-operations](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/description/) | [Kotlin](./hard/1585.check-if-string-is-transformable-with-substring-sort-operations.kt) | Hard |
+| 1589 | [maximum-sum-obtained-of-any-permutation](https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/description/) | [Kotlin](./medium/1589.maximum-sum-obtained-of-any-permutation.kt) | Medium |
